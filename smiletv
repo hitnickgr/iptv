@@ -29,4 +29,11 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF: -1 tvg-chno="116" tvg-logo="https://i.imgur.com/I4kzEBw.jpg" group-title="ΜΟΥΣΙΚΗ", FOX MUSIC
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://scontent.fath5-1.fna.fbcdn.net/v/t1.6435-9/118316106_3595311877197742_8026386889708016241_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=2c4854&_nc_ohc=JX4eQbJJPSgAX_Iu3XY&_nc_ht=scontent.fath5-1.fna&oh=ae76dc50c0a73943b8580a961ddbccbe&oe=60DB9870",MTV BIGGEST POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a20fdccb0b380a66cf2ebb323eac8d8.jpeg",MTV BLOCK PARTY
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://blueprint-api-production.s3.amazonaws.com/uploads/story/thumbnail/6555/Mtvlogo.jpg",MTV Mistle YO!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.parsatv.com/index_files/channels/cmc.jpg",CALIFORNIA MUSIC CHANNEL
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
