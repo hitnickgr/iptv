@@ -13,14 +13,13 @@ https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_3/ert_sports_3med
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_4/ert_sports_4medium.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="ert.ertsports.gr" tvg-logo="https://i.imgur.com/SgiGEUK.png",ERT SPORTS 5 
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_5/ert_sports_5medium.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="Extra Cyprus" tvg-logo="https://i.imgur.com/Vq4YBIA.png",ALFA SPORT CY 
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="FC BAYERN TV" tvg-logo="https://i.imgur.com/Y3P2HL0.png",FC BAYERN TV 
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="PLUTO TV SPORTS" tvg-logo="https://i.imgur.com/URF7pIR.jpg",PLUTO TV SPORTS 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&deviceId=5ad9bb941b95267e225e59c2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/8fedub5.png",RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="FOX SPORTS NEWS" tvg-logo="https://i.imgur.com/8cvgCY8.png",FOX SPORTS NEWS 
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="TNT Sports 2 Brasil" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg",TNT Sports 2 Brasil 
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-name="TNT Sports 4 Brasil" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
