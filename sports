@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="1" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS FHD 
-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports/ert_sportshigh.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS HD 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="2"tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS HD 
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 2 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="3" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 2 
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_2/ert_sports_2medium.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 3 
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_3/ert_sports_3medium.m3u8
