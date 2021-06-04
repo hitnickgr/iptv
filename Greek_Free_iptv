@@ -22,7 +22,7 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://cdn.imgbin.com/10/11/7/imgbin-hellenic-parliament-vouli-tileorasi-television-channel-television-show-others-k5n6WphaRsJvRRbybfAEqypim.jpg", ΒΟΥΛΗ TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://i.imgur.com/Dj7YFhH.png", EURONEWS
-https://youtu.be/-UJlcdni8cM
+https://youtu.be/-UJlcdni8cM.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png", NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/FKJ6N9p.png", GREEK CINEMA
