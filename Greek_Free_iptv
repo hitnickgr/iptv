@@ -19,5 +19,5 @@ http://skai-live.siliconweb.com/media/cambria4/index_bitrate1200K.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://i.imgur.com/TflwSlK.png", STAR HD
 http://livestar.siliconweb.com/media/star1/star1.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://cdn.imgbin.com/10/11/7/imgbin-hellenic-parliament-vouli-tileorasi-television-channel-television-show-others-k5n6WphaRsJvRRbybfAEqypim.jpg", ΒΟΥΛΗ TV
+#EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://cdn.imgbin.com/10/11/7/imgbin-hellenic-parliament-vouli-tileorasi-television-channel-television-show-others-k5n6WphaRsJvRRbybfAEqypim.jpg", VOULI TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
