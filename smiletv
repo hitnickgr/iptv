@@ -33,5 +33,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.parsatv.com/index_files/channels/cmc.jpg",California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ggkfZz%2B8L.png",Zerouno TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.radio.net/images/broadcasts/e8/b4/118129/1/c300.png",Pure Rock
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
