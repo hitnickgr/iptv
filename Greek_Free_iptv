@@ -53,6 +53,8 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENxve2K6Xudr9ICmjSzSguaPPVVC4cwVGWvllBMer4ZccQhQuv5hBsuXj92rOs-GNawc&usqp=CAU", EDGE SPORTS
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-sportitalia-tv-4837.jpg", Sportitalia Solocalcio HD
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png", XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/rovfMvn.jpg", ELLAS TV
