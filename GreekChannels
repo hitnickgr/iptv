@@ -23,9 +23,9 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/maina
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://antenna-group.com/wp-content/uploads/2023/04/ANT1_Plus_820x492.jpg", Ant1 Drama
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 Drama
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://antenna-group.com/wp-content/uploads/2023/04/ANT1_Plus_820x492.jpg", Ant1 Comedy
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 Comedy
 https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scontent.fath2-1.fna.fbcdn.net/v/t39.30808-6/309028630_206337638401098_9155535995443088632_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=9HGYXw0kh3gAX__ay54&_nc_ht=scontent.fath2-1.fna&oh=00_AfBnSO4Tcy1ShX7H6GonjBmecMM5MKKSEIj6wYR2rmDWBg&oe=65CA2E38", NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
