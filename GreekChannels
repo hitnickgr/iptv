@@ -31,12 +31,12 @@ https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://1.bp.blogspot.com/-L8T7Qe_MN3I/X3dpR6lqkPI/AAAAAAAAWvk/Jkl-MSoQfMkGQbD5K2RAtRuKo3i2BJ9kwCLcBGAsYHQ/s500/34100.png", 34100 TV
 https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
-https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png", GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://e7.pngegg.com/pngimages/491/871/png-clipart-cine-classic-logo-cinematography-brand-classic-blue-text.png", CINEMA CLASSICS
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
+https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="1" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="2"tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS HD 
