@@ -23,9 +23,9 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/maina
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png", Ant1 Drama
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://play.google.com/store/apps/details?id=gr.antenna.ant1&hl=el", Ant1 Drama
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/Dj7YFhH.png", Ant1 Comedy
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://play.google.com/store/apps/details?id=gr.antenna.ant1&hl=el", Ant1 Comedy
 https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scontent.fath2-1.fna.fbcdn.net/v/t39.30808-6/309028630_206337638401098_9155535995443088632_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=9HGYXw0kh3gAX__ay54&_nc_ht=scontent.fath2-1.fna&oh=00_AfBnSO4Tcy1ShX7H6GonjBmecMM5MKKSEIj6wYR2rmDWBg&oe=65CA2E38", NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
@@ -33,9 +33,10 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
 https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
-https://d2e65zbw2lm5c4.cloudfront.net/comedy_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png", GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://e7.pngegg.com/pngimages/491/871/png-clipart-cine-classic-logo-cinematography-brand-classic-blue-text.png", CINEMA CLASSICS
+https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="1" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS
 http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="2"tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS HD 
@@ -48,7 +49,7 @@ https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_3/ert_sports_3med
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_4/ert_sports_4medium.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 5 
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_5/ert_sports_5medium.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg", Ant1+ F1
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://play.google.com/store/apps/details?id=gr.antenna.ant1&hl=el", Ant1+ F1
 https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg", TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
