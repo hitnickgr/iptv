@@ -47,8 +47,8 @@ https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_3/ert_sports_3med
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_4/ert_sports_4medium.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 5 
 https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_5/ert_sports_5medium.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg", TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg", Ant1+ F1
+https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg", TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
