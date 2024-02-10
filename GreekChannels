@@ -67,6 +67,8 @@ https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/A9o9LcG.png", SYROS TV1
 https://eco.streams.ovh/syrostv1/syrostv1/chunklist_w865521103.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 MOUSIKO
+https://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Greek Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD 
@@ -89,5 +91,4 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ggkfZz%2B8L.png",Zerouno TV
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.radio.net/images/broadcasts/e8/b4/118129/1/c300.png",Pure Rock
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
+
