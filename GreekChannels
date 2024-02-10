@@ -3,7 +3,7 @@
 https://telmacosa.s.llnwi.net/osY/ERT/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/%CE%95%CE%A1%CE%A42.png", ERT2 HD
 https://telmacosa.s.llnwi.net/osY/ERT2/default/index.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/EPT3.png/180px-EPT3.png", ERT3 HD
+#EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/180px-EPT3_logo_%282015%29.svg.png", ERT3 HD
 https://telmacosa.s.llnwi.net/osY/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/mega-channel-gr.png", MEGA HD
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
