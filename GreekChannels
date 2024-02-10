@@ -57,6 +57,8 @@ https://tsexoulos.hamelomas.xyz/sim/foul/index.m3u8
 https://romantikoulis.rodopita.xyz/foul/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 CYPRUS
+https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png", XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fnetvtoronto&psig=AOvVaw0cnwFuJvBIkIYMMRMUvsnk&ust=1707660904220000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiE_8v7oIQDFQAAAAAdAAAAABAv", NETV TORONTO HD
