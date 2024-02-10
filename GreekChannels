@@ -71,6 +71,8 @@ http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142
 https://eco.streams.ovh/syrostv1/syrostv1/chunklist_w865521103.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 MOUSIKO
 https://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://files2.app.ertflix.gr/ertflix-music-live-1920x1080.jpg?m=resize&w=1200&h=628", ERT MUSIC TV
+https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net:443/live/S11906356/OllOZuw9jfgd/chunklist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Greek Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD 
