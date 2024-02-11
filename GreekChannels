@@ -91,7 +91,7 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://radioproto.gr/wp-content/uploads/2021/09/a3d9d5bd-2607-bc0f-559b-50c8fea4e526.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/chunklist_w573086308.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.e-radio.gr%2FEllinikos-932-Athens-i282%2Flive&psig=AOvVaw1RCKV6OYku-CKGvut4nb11&ust=1707504208894000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDj5ICznIQDFQAAAAAdAAAAABAE",ΕΛΛΗΝΙΚΟΣ FM
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.enikos.gr/wp-content/uploads/2016/01/154fc9bfc3d18bca37ed0a3ba35f017a.jpg",ΕΛΛΗΝΙΚΟΣ FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",CHOICE
 https://vod.streams.ovh:3528/stream/play.m3u8
@@ -107,4 +107,3 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ggkfZz%2B8L.png",Zerouno TV
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-
