@@ -71,7 +71,7 @@ https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png", XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fnetvtoronto&psig=AOvVaw0cnwFuJvBIkIYMMRMUvsnk&ust=1707660904220000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiE_8v7oIQDFQAAAAAdAAAAABAv", NETV TORONTO HD
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/NETV_1983.png/revision/latest/scale-to-width-down/250?cb=20220529205217", NETV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/YhwbcwE.png", GREEK TV LONDON
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
@@ -105,5 +105,4 @@ http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ggkfZz%2B8L.png",Zerouno TV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+
