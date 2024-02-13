@@ -1,23 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="1" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports_3Mbps.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="2"tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS HD 
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="3" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 2 
-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_2/ert_sports_2medium.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 3 
-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_3/ert_sports_3medium.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 4 
-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_4/ert_sports_4medium.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 5 
-https://ert-live-bcbs15228.siliconweb.com:443/media/ert_sports_5/ert_sports_5medium.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg", TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://pbs.twimg.com/media/EmTM35yXIAMEtkw.jpg", TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENxve2K6Xudr9ICmjSzSguaPPVVC4cwVGWvllBMer4ZccQhQuv5hBsuXj92rOs-GNawc&usqp=CAU", EDGE SPORTS
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-sportitalia-tv-4837.jpg", Sportitalia Solocalcio HD
-https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", ΑΓΩΝΕΣ 1
+https://tsexoulos.hamelomas.xyz/sim/foul/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", ΑΓΩΝΕΣ 2
+https://tsexoulos.hamelomas.xyz/sim/foul2/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", ΑΓΩΝΕΣ 3
+https://tsexoulos.hamelomas.xyz/sim/foul3/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://antenna-group.com/wp-content/uploads/2023/04/ANT1_Plus_820x492.jpg", Ant1+ F1
+https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
