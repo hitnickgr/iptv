@@ -41,20 +41,20 @@ https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
 https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="1" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 1 
-https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="2" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 2 
-https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/SgiGEUK.png", ERT SPORTS 3 
-https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports3/ert_sports3_main/mainabr/ert_sports3_main/main_1080/chunks.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://antenna-group.com/wp-content/uploads/2023/04/ANT1_Plus_820x492.jpg", Ant1+ F1
-https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", ΑΓΩΝΕΣ 1
 https://tsexoulos.hamelomas.xyz/sim/foul/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", ΑΓΩΝΕΣ 2
 https://tsexoulos.hamelomas.xyz/sim/foul2/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", ΑΓΩΝΕΣ 3
 https://tsexoulos.hamelomas.xyz/sim/foul3/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://antenna-group.com/wp-content/uploads/2023/04/ANT1_Plus_820x492.jpg", Ant1+ F1
+https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%CE%A4%CE%BF_%CE%BB%CE%BF%CE%B3%CF%8C%CF%84%CF%85%CF%80%CE%BF_%CF%84%CE%B7%CF%82_%CE%95%CE%A1%CE%A4_Sports_1.png/180px-%CE%A4%CE%BF_%CE%BB%CE%BF%CE%B3%CF%8C%CF%84%CF%85%CF%80%CE%BF_%CF%84%CE%B7%CF%82_%CE%95%CE%A1%CE%A4_Sports_1.png", ERT SPORTS 1 
+https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/a/a5/Ertsports2.png/800px-Ertsports2.png", ERT SPORTS 2 
+https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/el/d/db/Ertsports3.png", ERT SPORTS 3 
+https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports3/ert_sports3_main/mainabr/ert_sports3_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", TENNIS 2 
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", TENNIS 3 
