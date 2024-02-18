@@ -1,26 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Greek Hits
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD 
-https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg",PANIK TV
-https://panik.cast-control.eu:1936/paniktv/paniktv//playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/bGIdE9N.png",CANNALI TV HD
-http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",CHOICE
-https://vod.streams.ovh:3528/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD Dance House
-https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://scontent.fath5-1.fna.fbcdn.net/v/t1.6435-9/118316106_3595311877197742_8026386889708016241_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=2c4854&_nc_ohc=JX4eQbJJPSgAX_Iu3XY&_nc_ht=scontent.fath5-1.fna&oh=ae76dc50c0a73943b8580a961ddbccbe&oe=60DB9870",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a20fdccb0b380a66cf2ebb323eac8d8.jpeg",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://blueprint-api-production.s3.amazonaws.com/uploads/story/thumbnail/6555/Mtvlogo.jpg",MTV Mistle YO!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://www.parsatv.com/index_files/channels/cmc.jpg",California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51ggkfZz%2B8L.png",Zerouno TV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://antenna-group.com/wp-content/uploads/2023/04/ANT1_Plus_820x492.jpg", Ant1+ F1
+https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 1
+https://tsexoulos.hamelomas.xyz/sim/foul/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 2 
+https://tsexoulos.hamelomas.xyz/sim/foul2/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 3
+https://tsexoulos.hamelomas.xyz/sim/foul3/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 4
+https://tsexoulos.hamelomas.xyz/sim/foul4/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 5
+https://tsexoulos.hamelomas.xyz/sim/foul5/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 6
+https://tsexoulos.hamelomas.xyz/sim/foul6/index.m3u8
