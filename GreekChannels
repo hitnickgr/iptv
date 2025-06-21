@@ -21,7 +21,7 @@ https://livestar.siliconweb.com/media/star4/star4.m3u8
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8
-#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", EURONEWS
+#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Euronews.png", EURONEWS
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 Drama
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
@@ -55,6 +55,10 @@ https://danos.xtiposini.online/rohalia/familia6/index.m3u8
 https://palis.flemantinakis.xyz/ant1f1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", SkySports main Event
 https://salamus2023.onlinehdhls.ru/ddy5/premium38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%201.png?raw=true", EUROSPORT 1 
+https://community.wideiptv.top/EURO1GR/index.fmp4.m3u8?token=617c3fd3324d4a52f0f499cdce5bfc9bcc2dc69b-d5231bb800f87dd3e4490a5dc30e157f-1750510744-1750499944
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%202.png?raw=true", EUROSPORT 2 
+https://community.wideiptv.top/EURO2GR/index.fmp4.m3u8?token=032b7c8525682389589bf09b61240c2f0a19f696-34a6133f7db2ba2bd7c4cb5ed65a7020-1750510903-1750500103
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%201.png?raw=true", ERT SPORTS 1 
 https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports3/ert_sports3_main/mainabr/ert_sports3_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%202.png?raw=true", ERT SPORTS 2 
@@ -66,7 +70,7 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/syros-tv-gr.png", SYROS TV1
-https://eco.streams.ovh/syrostv1/syrostv1/chunklist_w865521103.m3u8
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 MOUSIKO
 https://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://files2.app.ertflix.gr/ertflix-music-live-1920x1080.jpg?m=resize&w=1200&h=628", ERT MUSIC TV
