@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/180px-EPT1_logo_%282015%29.svg.png", ERT1 HD
-https://telmacosa.s.llnwi.net/osY/ERT/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/%CE%95%CE%A1%CE%A42.png", ERT2 HD
-https://telmacosa.s.llnwi.net/osY/ERT2/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/180px-EPT3_logo_%282015%29.svg.png", ERT3 HD
-https://telmacosa.s.llnwi.net/osY/ERT3/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/mega-channel-gr.png", MEGA HD
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+http://streamcdnf25-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", ANT1 HD
-https://d1nfykbwa3n98t.cloudfront.net:443/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
+http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/alpha-tv-gr.png", ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/skai-tv-gr.png", SKAI HD
-https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/open-tv-gr.png", OPEN BEYOND HD
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/star-channel-gr.png", STAR HD
-https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
+https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ERT_World_Logo_2008.svg/765px-ERT_World_Logo_2008.svg.png?20240131181238", ERT WORLD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
@@ -53,7 +53,9 @@ https://danos.xtiposini.online/rohalia/familia6/index.m3u8
 https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", SkySports main Event
 https://salamus2023.onlinehdhls.ru/ddy5/premium38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/el/d/db/Ertsports3.png", ERT SPORTS 3 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%201.png?raw=true", ERT SPORTS 1 
+https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports3/ert_sports3_main/mainabr/ert_sports3_main/main_1080/chunks.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%202.png?raw=true", ERT SPORTS 2 
 https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports3/ert_sports3_main/mainabr/ert_sports3_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", TENNIS 2 
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
