@@ -25,6 +25,8 @@ https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/M/Mega%20Channel.png?raw=true", MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://www.pronews.gr/wp-content/themes/whsk_pronewsgr//common/imgs/DF3.jpg", PRONEWS
+https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 Drama
 https://d2e65zbw2lm5c4.cloudfront.net/drama_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 Comedy
