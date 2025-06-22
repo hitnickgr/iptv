@@ -30,9 +30,9 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/p
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://www.pronews.gr/wp-content/themes/whsk_pronewsgr//common/imgs/DF3.jpg", PRONEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://742f409706.cbaul-cdnwnd.com/1a3863e4b0b0eb43a22896ebf05b97c7/200000016-4e10e4e111/700/CT1.jpeg?ph=742f409706", Cinema Time 1
-https://fl1002.bozztv.com:443/ssh101/cinematimetv/tracks-v1a1/mono.m3u8
+https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://742f409706.cbaul-cdnwnd.com/1a3863e4b0b0eb43a22896ebf05b97c7/200000014-20dbe20dc2/CINEMATIME2-LOGO-CYRCLUS.jpeg?ph=742f409706", Cinema Time 2
-https://ssh101-fl.bozztv.com/ssh101/cinematimetv2/tracks-v1a1/mono.m3u8
+https://ssh101-fl.bozztv.com/ssh101/cinematimetv2/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/delta-tv-gr.png", ΔΕΛΤΑ TV
 https://ssh101-fl.bozztv.com/ssh101/deltatv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://1.bp.blogspot.com/-L8T7Qe_MN3I/X3dpR6lqkPI/AAAAAAAAWvk/Jkl-MSoQfMkGQbD5K2RAtRuKo3i2BJ9kwCLcBGAsYHQ/s500/34100.png", 34100 TV
