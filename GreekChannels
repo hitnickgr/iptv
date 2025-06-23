@@ -6,7 +6,7 @@ https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/180px-EPT3_logo_%282015%29.svg.png", ERT3 HD
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/mega-channel-gr.png", MEGA HD
-https://netnix.tv/countries/gr/channels/mega-hd
+http://135.181.180.153:8976/MegaHD/index.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", ANT1 HD
 http://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/alpha-tv-gr.png", ALPHA HD
