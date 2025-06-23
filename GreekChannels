@@ -77,6 +77,10 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/syros-tv-gr.png", SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/gnomi-tv-gr.png", GNOMI TV
+https://live.streams.ovh:8081/gnomitv/index.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://athens-geo.tv/wp-content/uploads/2013/01/athes-geo-tv.svg", ATHENS GEO
+https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", Ant1 MOUSIKO
 https://d2kbpjabp53obz.cloudfront.net/just_aws/abr/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://files2.app.ertflix.gr/ertflix-music-live-1920x1080.jpg?m=resize&w=1200&h=628", ERT MUSIC TV
