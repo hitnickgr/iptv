@@ -19,6 +19,8 @@ https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 http://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/star-channel-gr.png", STAR HD
 https://livestar.siliconweb.com/media/star4/star4.m3u8
+#EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/star-channel-gr.png", STAR INTERNATIONAL
+https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scera.org/wp-content/uploads/2021/02/Cinema-classics-logo-square.png", CINEMA CLASSICS
@@ -79,7 +81,7 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://logodix.com/logo/1970409.png", Destination Greece TV HD
 https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/mad-gr.png", MAD WORLD
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg", MAD WORLD
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8YzoXFJ.png",PLAY TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
