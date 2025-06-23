@@ -75,6 +75,8 @@ https://community.wideiptv.top/TENNISCHANNEL/index.fmp4.m3u8?token=a392b05885b5c
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://www.parapolitika.gr//files/2023-01-18/attica_tv_new-1024x597.jpg", ATTICA TV
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/syros-tv-gr.png", SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GEO_Television.png", ATHENS GEO
