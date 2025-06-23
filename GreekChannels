@@ -81,8 +81,6 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GEO_Television.png", ATHENS GEO
 https://pro.free.hr:3236/stream/play.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://files2.app.ertflix.gr/ertflix-music-live-1920x1080.jpg?m=resize&w=1200&h=628", ERT MUSIC TV
-https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net:443/live/S11906356/OllOZuw9jfgd/chunklist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/mad-gr.png", MAD WORLD
 https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8YzoXFJ.png",PLAY TV
@@ -97,3 +95,5 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://w1.pngwing.com/pngs/282/589/png-transparent-radio-icecast-streaming-media-xiphorg-foundation-shoutcast-media-server-computer-servers-vorbis.png", ICECAST TV
+https://rdst.win:59000/dos.webm
