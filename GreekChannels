@@ -19,6 +19,22 @@ https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 http://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/star-channel-gr.png", STAR HD
 https://livestar.siliconweb.com/media/star4/star4.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
+https://live.netmaxtv.com:1936/live/live/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://742f409706.cbaul-cdnwnd.com/1a3863e4b0b0eb43a22896ebf05b97c7/200000016-4e10e4e111/700/CT1.jpeg?ph=742f409706", Cinema Time 1
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://742f409706.cbaul-cdnwnd.com/1a3863e4b0b0eb43a22896ebf05b97c7/200000014-20dbe20dc2/CINEMATIME2-LOGO-CYRCLUS.jpeg?ph=742f409706", Cinema Time 2
+https://ssh101-fl.bozztv.com/ssh101/cinematimetv2/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png", GALAXY GR
+https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://e7.pngegg.com/pngimages/491/871/png-clipart-cine-classic-logo-cinematography-brand-classic-blue-text.png", CINEMA CLASSICS
+https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png", Dtv6 
+https://channel.streams.ovh:8081/dipolotv/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
+https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ERT_World_Logo_2008.svg/765px-ERT_World_Logo_2008.svg.png?20240131181238", ERT WORLD
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
@@ -29,22 +45,6 @@ https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://www.pronews.gr/wp-content/themes/whsk_pronewsgr//common/imgs/DF3.jpg", PRONEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://742f409706.cbaul-cdnwnd.com/1a3863e4b0b0eb43a22896ebf05b97c7/200000016-4e10e4e111/700/CT1.jpeg?ph=742f409706", Cinema Time 1
-https://s1.cystream.net/live/34100/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://742f409706.cbaul-cdnwnd.com/1a3863e4b0b0eb43a22896ebf05b97c7/200000014-20dbe20dc2/CINEMATIME2-LOGO-CYRCLUS.jpeg?ph=742f409706", Cinema Time 2
-https://ssh101-fl.bozztv.com/ssh101/cinematimetv2/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
-https://live.netmaxtv.com:1936/live/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
-https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png", GALAXY GR
-https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://e7.pngegg.com/pngimages/491/871/png-clipart-cine-classic-logo-cinematography-brand-classic-blue-text.png", CINEMA CLASSICS
-https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png", Dtv6 
-https://channel.streams.ovh:8081/dipolotv/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
-https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 1
 https://danos.xtiposini.online/rohalia/familia/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", MotoGP Κανάλι 2 
@@ -68,7 +68,7 @@ https://community.wideiptv.top/EURO2GR/index.fmp4.m3u8?token=032b7c8525682389589
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%201.png?raw=true", ERT SPORTS 1 
 https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports3/ert_sports3_main/mainabr/ert_sports3_main/main_1080/chunks.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%202.png?raw=true", ERT SPORTS 2 
-https://cbd537474fbad4634b64787657ff6456.msvdn.net:443/sports3/ert_sports3_main/mainabr/ert_sports3_main/main_1080/chunks.m3u8
+https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", TENNIS 1 
 https://community.wideiptv.top/TENNISCHANNEL/index.fmp4.m3u8?token=a392b05885b5c4fbfc0c7df9e65d419934b57d8b-f9b02c51b0d8fa46b83e6447b6350326-1750512771-1750501971
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png", TENNIS 2 
@@ -77,8 +77,6 @@ https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/syros-tv-gr.png", SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/gnomi-tv-gr.png", GNOMI TV
-https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GEO_Television.png", ATHENS GEO
 https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/mad-gr.png", MAD WORLD
