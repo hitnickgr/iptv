@@ -35,8 +35,9 @@ https://s1.cystream.net/live/34100/playlist.m3u8
 https://ssh101-fl.bozztv.com/ssh101/cinematimetv2/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://1.bp.blogspot.com/-L8T7Qe_MN3I/X3dpR6lqkPI/AAAAAAAAWvk/Jkl-MSoQfMkGQbD5K2RAtRuKo3i2BJ9kwCLcBGAsYHQ/s500/34100.png", 34100 TV
-https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l_xKeE7Nl4W5d2TtxIttX3mS4gwnAcO7DKARcgK9ziHPc=s900-c-k-c0x00ffffff-no-rj
+", VILAGE WORLD TV
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png", GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://e7.pngegg.com/pngimages/491/871/png-clipart-cine-classic-logo-cinematography-brand-classic-blue-text.png", CINEMA CLASSICS
