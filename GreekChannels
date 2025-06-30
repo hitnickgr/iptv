@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://ext.greektv.app/epg/epg.xml"
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/180px-EPT1_logo_%282015%29.svg.png", ERT1 HD
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/%CE%95%CE%A1%CE%A42.png", ERT2 HD
