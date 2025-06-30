@@ -108,7 +108,3 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png", NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://tvepg.eu/img/portugal/logo/clubbing_tv.png", CLUBBING TV
-#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.imgur.com/dLvRD4k.png", Gagnam Zombie
-https://archive.org/download/gangnam.-zombie.-2023.-bluray.-1080p.-blu-ray.x-264.-aac-5.1-yts.-mx_202408/Gangnam.Zombie.2023.BLURAY.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/dLvRD4k.png", ΔΟΚΙΜΑΣΤΙΚΗ ΜΟΥΣΙΚΗ
-https://archive.org/download/78_a-world-of-no-goodbyes_hoagy-carmichael-orchestra-hoagy-carmichael-carmichael-par_gbia0032166/78_a-world-of-no-goodbyes_hoagy-carmichael-orchestra-hoagy-carmichael-carmichael-par_gbia0032166_vbr.m3u
