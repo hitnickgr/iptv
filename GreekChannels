@@ -13,6 +13,8 @@ http://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/skai-tv-gr.png", SKAI HD
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png", OMEGA
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/open-tv-gr.png", OPEN BEYOND HD
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/makedonia-tv-gr.png", MAK TV HD
@@ -43,8 +45,6 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arQe5qS.png", SYROS TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png", OMEGA
-https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKYSPORTS MAIN EVENT HD
 http://tvmate.icu:8080/85646307/54885994/137720
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://worldscreenings.com/wp-content/uploads/2024/07/World-Billiards-TV-NEWID-724.jpg", WORLD BILLIARDS TV
