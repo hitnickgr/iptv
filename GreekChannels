@@ -28,7 +28,7 @@ https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scera.org/wp-content/uploads/2021/02/Cinema-classics-logo-square.png", CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://extacytv.gr/images/dark-logo.png", EXTACY TV GREEKS
-https://live20.bozztv.com/giatv/giatv-extacytvgreeks/extacytvgreeks/playlist.m3u8
+https://eu1.servers10.com:8081/8382/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hsK68yd.png", DIAVATA
