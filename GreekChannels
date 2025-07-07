@@ -29,6 +29,8 @@ https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scera.org/wp-content/uploads/2021/02/Cinema-classics-logo-square.png", CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", ELLAS WORLD
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV GREEKS
 https://eu1.servers10.com:8081/8382/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV
@@ -37,8 +39,6 @@ https://eu1.servers10.com:8081/8380/index.m3u8
 https://eu1.servers10.com:8081/8384/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
 https://live.netmaxtv.com:1936/live/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", ELLAS WORLD
-https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", ANT1 COMEDY
 http://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", ANT1 DRAMA
