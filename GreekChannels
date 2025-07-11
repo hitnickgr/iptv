@@ -121,6 +121,8 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png", NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 group-title="ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/dTVNZ", Ο Γλυκοψεύτης (1983)
+https://ia801200.us.archive.org/6/items/20250402_20250402_1855/%CE%9F%20%CE%B3%CE%BB%CF%85%CE%BA%CE%BF%CF%88%CE%AD%CF%85%CF%84%CE%B7%CF%82.mp4
 #EXTINF:-1 group-title="ΕΛΛ. ΠΑΛΙΕΣ ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/evuyf", Γοργόνες και Μάγκες (1968)
 https://ia600205.us.archive.org/35/items/1966_20210701/%CE%93%CE%BF%CF%81%CE%B3%CF%8C%CE%BD%CE%B5%CF%82%20%CE%BA%CE%B1%CE%B9%20%CE%9C%CE%AC%CE%B3%CE%BA%CE%B5%CF%82%20%281968%29.ia.mp4
 #EXTINF:-1 group-title="ΕΛΛ. ΠΑΛΙΕΣ ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/Fnp9w", Η Θεία από το Σικάγο (1957)
