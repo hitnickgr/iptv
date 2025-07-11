@@ -123,4 +123,14 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="ΕΛΛ.ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/9Q0rP", Resident Doctor (2024)
 https://ia800708.us.archive.org/30/items/resident-doctor-2024/Resident%20Doctor%202024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Show (2021)" tvg-logo="http://qqtv.nl:8080/images/c3390bd0d41126bbb2c7f1a9dbd819f4.jpg" group-title="NEW MOVIES(2021 - 22)",The Show (2021)
+http://qqtv.nl:8080/movie/Mike1234/Mike1234/415893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Starling (2021)" tvg-logo="http://qqtv.nl:8080/images/c365e04da7d627a2b207e97375e75353.jpg" group-title="NEW MOVIES(2021 - 22)",The Starling (2021)
+http://qqtv.nl:8080/movie/Mike1234/Mike1234/415894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="To Catch a Spy (2021)" tvg-logo="http://qqtv.nl:8080/images/c170a3d81396f5b9296b12aed5aaad2d.jpg" group-title="NEW MOVIES(2021 - 22)",To Catch a Spy (2021)
+http://qqtv.nl:8080/movie/Mike1234/Mike1234/415895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venus as a Boy (2021)" tvg-logo="http://qqtv.nl:8080/images/25ba61846b457c12bf35f8ccdcc4a0ee.jpg" group-title="NEW MOVIES(2021 - 22)",Venus as a Boy (2021)
+http://qqtv.nl:8080/movie/Mike1234/Mike1234/415896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ahir Shah: Dots (2021)" tvg-logo="http://qqtv.nl:8080/images/25ba61846b457c12bf35f8ccdcc4a0ee.jpg" group-title="NEW MOVIES(2021 - 22)",Ahir Shah: Dots (2021)
+http://qqtv.nl:8080/movie/Mike1234/Mike1234/415740.mp4
 
