@@ -69,7 +69,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.etsystatic.com/8804575/r/il/bfe5d2/5694426841/il_1588xN.5694426841_liwt.jpg", TENNIS+ 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.etsystatic.com/8804575/r/il/bfe5d2/5694426841/il_1588xN.5694426841_liwt.jpg", NITRO CIRCUS
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://shorturl.at/VwS7J", NITRO CIRCUS
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -125,6 +125,8 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png", NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stingray_Classica_Logo_10.2019.svg/1280px-Stingray_Classica_Logo_10.2019.svg.png", STINGRAY CLASSICA
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/dTVNZ", Ο Γλυκοψεύτης (1983)
 https://ia801200.us.archive.org/6/items/20250402_20250402_1855/%CE%9F%20%CE%B3%CE%BB%CF%85%CE%BA%CE%BF%CF%88%CE%AD%CF%85%CF%84%CE%B7%CF%82.mp4
 #EXTINF:-1 group-title="ΕΛΛ. ΠΑΛΙΕΣ ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/evuyf", Γοργόνες και Μάγκες (1968)
