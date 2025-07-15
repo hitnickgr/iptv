@@ -69,6 +69,8 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.etsystatic.com/8804575/r/il/bfe5d2/5694426841/il_1588xN.5694426841_liwt.jpg", TENNIS+ 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.etsystatic.com/8804575/r/il/bfe5d2/5694426841/il_1588xN.5694426841_liwt.jpg", NITRO CIRCUS
+https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 1
