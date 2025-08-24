@@ -94,7 +94,7 @@ https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Euronews.png?raw=true", EURONEWS
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://gr.euronews.com/live?fbclid=IwVERDUAMXsBVleHRuA2FlbQIxMAABHl33851tIHAj6vJ2Pqhe11UXKSkqznn6pgSOcm-jDOY0LXZ08XZX7lk8CQ3u_aem_Dnvio_hI3lAHj8RSTGf0eg
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://i.imgur.com/Z3k7iA0.png", MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://i.ibb.co/zGQpM3Y/download-7.png", PRO NEWS
