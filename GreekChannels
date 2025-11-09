@@ -60,7 +60,7 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKYSPORTS MAIN EVENT HD
 http://tvmate.icu:8080/85646307/54885994/137720
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 1
-https://s-a1.peulleieo.net:443/kirill/fah0vikizoba30lac0ro/master.m3u8
+https://s-a2.peulleieo.net:443/kirill/50nu1ikuninar0mu7ihi/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://worldscreenings.com/wp-content/uploads/2024/07/World-Billiards-TV-NEWID-724.jpg", WORLD BILLIARDS TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/BZijfKh.png", BILLIARD TV
@@ -163,21 +163,6 @@ https://ia801205.us.archive.org/28/items/fantasy.movies.grsubs/The%20Librarian%2
 https://ia801205.us.archive.org/28/items/fantasy.movies.grsubs/Lucky%20Luke%20%282009%29.ia.mp4
 #EXTINF:-1 group-title="ΞΕΝΕΣ ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/sINme", Priest (2011)
 https://dn720408.ca.archive.org/0/items/fantasy.movies.greek.subs/Priest%20%282011%29.ia.mp4
-#EXTINF:-1 group-title="YouTube" tvg-logo="https://shorturl.at/clM9z", ΣΕΦΕΡΛΗΣ
-https://www.youtube.com/watch?v=tu6z64AH9Eg
-#EXTINF:-1 group-title="YouTube" tvg-logo="https://shorturl.at/sINme", TOTE KAI TWRA
-https://www.youtube.com/watch?v=BVsRKwMTrpQ
-#EXTINF:Fidan1 live strem Shedlife1 VS  MisterGepetto,
-https://www.youtube.com/watch?v=9_NfLm5jAok
-#EXTINF:RUS  Sh00t vs eC Locodoco  game  1 RUS Sh00t vs eC ClowN game 2,
-https://www.youtube.com/watch?v=t1MCU5w66zg
-#EXTINF:Biante VS  rthdrwths Empire earth Mod game,
-https://www.youtube.com/watch?v=BgItl-2HEr8
-#EXTINF:[RUS] Sh00T vs SiR_Captain Tsubasa 10.7.2019,
-https://www.youtube.com/watch?v=KEHzxWsb28w
-#EXTINF:[RUS] Sh00T vs SiR_Captain Tsubasa 10.03.2019,
-https://www.youtube.com/watch?v=YaoT-J5ye64
-
 
 
 
