@@ -81,8 +81,8 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", Κανάλι 1
-https://top1-cdnnew.newkso.ru/top1-cdn/ftkant1f1/mono.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://e7.pngegg.com/pngimages/881/999/png-clipart-2018-nba-playoffs-nba-tv-television-nba-league-pass-nba-logo-sign.png", NBA TV
+https://locked.pixelpanel.online/hdstream/embed/444.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/12/MEGA-Play-1024x576.jpg", MEGA PLAY
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
@@ -111,8 +111,6 @@ https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://logodix.com/logo/1970409.png", Destination Greece TV HD
 https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://files2.app.ertflix.gr/files/channels/ert-music-800x300.png?m=resize&w=440&h=160", ERT MUSIC
-https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/ItxKvVS.png", ANT1 MUSIC
 http://mcdn.antennaplus.gr/live/media0/Just_Music/HLS/Just_Music.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg", MAD WORLD
@@ -127,6 +125,8 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://djazz.stingray.com/static/site/djazz/site/TwitterCard.png", Stingray DJAZZ (USA)
 https://jmp2.uk/stvp-USBD3500025GS
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stingray_Classica_Logo_10.2019.svg/1280px-Stingray_Classica_Logo_10.2019.svg.png", STINGRAY CLASSICA
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA RELAXING TV HD 
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png", BARAZA TV GOLD
@@ -135,8 +135,6 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png", NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stingray_Classica_Logo_10.2019.svg/1280px-Stingray_Classica_Logo_10.2019.svg.png", STINGRAY CLASSICA
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="ΕΛΛΗΝΙΚΕΣ ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/dTVNZ", Ο Γλυκοψεύτης (1983)
 https://ia801200.us.archive.org/6/items/20250402_20250402_1855/%CE%9F%20%CE%B3%CE%BB%CF%85%CE%BA%CE%BF%CF%88%CE%AD%CF%85%CF%84%CE%B7%CF%82.mp4
 #EXTINF:-1 group-title="ΕΛΛ. ΠΑΛΙΕΣ ΤΑΙΝΙΕΣ" tvg-logo="https://shorturl.at/evuyf", Γοργόνες και Μάγκες (1968)
