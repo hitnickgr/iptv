@@ -125,6 +125,8 @@ https://eco.streams.ovh:8081/barazatv/index.m3u8
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://cdn.prod.website-files.com/6058a55e7bf32c592084ed88/6059be4e542a774d2917fcbb_newLogo-white.png", QWEST JAZZ TV
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://djazz.stingray.com/static/site/djazz/site/TwitterCard.png", Stingray DJAZZ (USA)
+https://jmp2.uk/stvp-USBD3500025GS
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA RELAXING TV HD 
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png", BARAZA TV GOLD
