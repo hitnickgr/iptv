@@ -59,7 +59,7 @@ https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT HD
 https://a1xs.vip/2000001
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Sky-sports-main-action.jpg", SKY SPORTS ACTION FHD
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Sky-sports-main-action.jpg", SKY SPORTS ACTION
 https://a1xs.vip/2000011
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://match-images.icdb.tv/349a31f4ff5357cf72e5a0a0d058fa46.jpg", SKY SPORTS 1
 https://a1xs.vip/700031
@@ -83,6 +83,8 @@ https://shorturl.at/VhCG5
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png", TENNIS 2 
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://pbs.twimg.com/profile_images/1951065414118539266/9Go2oZlV_400x400.jpg", SKY SPORTS TENNIS
+https://a1xs.vip/2000013
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.etsystatic.com/8804575/r/il/bfe5d2/5694426841/il_1588xN.5694426841_liwt.jpg", TENNIS+ 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://shorturl.at/VwS7J", NITRO CIRCUS
