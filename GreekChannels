@@ -102,7 +102,7 @@ https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%202.png?raw=true", ERT SPORTS 2 
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ERT_World_Logo_2008.svg/765px-ERT_World_Logo_2008.svg.png?20240131181238", ERT WORLD
-https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
+https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Euronews.png?raw=true", EURONEWS
