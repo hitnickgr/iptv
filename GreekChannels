@@ -69,6 +69,8 @@ https://a1xs.vip/700032
 https://a1xs.vip/2000021
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 2
 https://a1xs.vip/2000022
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.pngfind.com/pngs/m/520-5208437_254-logo-dazn-hd-png-download.png", DAZN TV
+https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://worldscreenings.com/wp-content/uploads/2024/07/World-Billiards-TV-NEWID-724.jpg", WORLD BILLIARDS TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/BZijfKh.png", BILLIARD TV
@@ -91,8 +93,6 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.megatv.com/wp-content/uploads/2021/12/MEGA-Play-1024x576.jpg", MEGA PLAY
-https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
 https://sayonara.wideiptv.top/EURO1GR/index.fmp4.m3u8?token=eefedd883dfbd96d55ddf3e04fee76d0fd490cc7-4b1331aff6a73c0a31d834e49fba9b3e-1752524217-1752513417
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport2%20Uk.png?raw=true", EUROSPORT 2 
