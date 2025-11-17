@@ -125,10 +125,10 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/p
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GEO_Television.png", ATHENS GEO
 https://pro.free.hr:3236/stream/play.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://cdn.mos.cms.futurecdn.net/rWoPqpFMNDjuhR54ALHJfg.jpg", WORLD FISHING NETWORK
+https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2024/02/huntfishtv.png", Hunt Fish TV
 https://jmp2.uk/str-5747.m3u8
-#EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/WFN_2014_logo.svg", WORLD FISHING NETWORK
-https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://tv.ime.gr/content/9999/poster.png", IME
 https://diavlos1.cnt.grnet.gr/grnet-imewebtv/imewebtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://i.imgur.com/8oy62fX.png", XPLORE
