@@ -63,12 +63,12 @@ https://l.lioncdn.net/Sky-Sports-Main-Event/index.m3u8
 https://a1xs.vip/2000011
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg", SKY SPORTS FOOTBALL
 https://l.lioncdn.net/Sky-Sports-Football/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", SKY SPORTS F1
+https://l.lioncdn.net/Sky-Sports-F1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 1
 https://a1xs.vip/700031
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 2
 https://a1xs.vip/700032
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", SKY SPORTS F1
-https://l.lioncdn.net/Sky-Sports-F1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 1
 https://l.lioncdn.net/TNT-Sports-1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 2
@@ -85,6 +85,8 @@ https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad9
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.vhv.rs/dpng/d/431-4316464_nba-tvs-graphic-design-hd-png-download.png", NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.prolificnorth.co.uk/wp-content/uploads/2015/02/skysportsgolf_0.png", SKY SPORTS GOLF
+https://l.lioncdn.net/Sky-Sports-Golf/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/PGA-Tour-Logo-500x281.png", PGA TOUR
 https://shorturl.at/VhCG5
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://toppng.com/uploads/preview/open-tennis-channel-logo-11569062755purrm416ye.png", TENNIS 1 
