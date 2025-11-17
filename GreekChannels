@@ -70,7 +70,7 @@ https://l.lioncdn.net/Sky-Sports-F1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 1
 https://l.lioncdn.net/TNT-Sports-1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 2
-https://a1xs.vip/2000022
+https://l.lioncdn.net/TNT-Sports-2/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 3
 https://l.lioncdn.net/TNT-Sports-3-BU/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", DAZN TV
