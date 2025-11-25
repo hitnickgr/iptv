@@ -108,9 +108,9 @@ https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/8fedub5.png", RED BULL TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
-https://sayonara.wideiptv.top/EURO1GR/index.fmp4.m3u8?token=eefedd883dfbd96d55ddf3e04fee76d0fd490cc7-4b1331aff6a73c0a31d834e49fba9b3e-1752524217-1752513417
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport2%20Uk.png?raw=true", EUROSPORT 2 
-https://l.lioncdn.net/Eurosport-2/index.m3u8
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%201.png?raw=true", ERT SPORTS 1 
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%202.png?raw=true", ERT SPORTS 2 
