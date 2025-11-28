@@ -41,12 +41,12 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.
 https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", ELLAS WORLD
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV GREEKS
-https://eu1.servers10.com:8081/8382/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://15caafdab2.cbaul-cdnwnd.com/235a6e890dab480f00b1251e689026f3/200000000-8cae78da8d/uc_logo.jpg", LAMPSI TV
 https://pro.free.hr:3343/live/l1llive.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV GREEKS
+https://eu1.servers10.com:8081/8382/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/5/59/Atticatvlogo2017.png", ATTICA TV
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
