@@ -31,30 +31,22 @@ https://vdo.alphaserver.gr:3128/stream/play.m3u8
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/divo-tv-1-logo-png-transparent.png", DIPOLO TV HD
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hsK68yd.png", DIAVATA
+https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Sierra_Logo_2014.png", SIERRA CHANNEL
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://deadline.com/wp-content/uploads/2024/06/MovieSphere.jpg", MOVIE SPHERE
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
 https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://15caafdab2.cbaul-cdnwnd.com/235a6e890dab480f00b1251e689026f3/200000000-8cae78da8d/uc_logo.jpg", LAMPSI TV
-https://pro.free.hr:3343/live/l1llive.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", ELLAS WORLD
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hsK68yd.png", DIAVATA
-https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV GREEKS
 https://eu1.servers10.com:8081/8382/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV
-https://eu1.servers10.com:8081/8380/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV CINEMA
-https://eu1.servers10.com:8081/8384/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
-https://live.netmaxtv.com:1936/live/live/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", ANT1 COMEDY
-http://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", ANT1 DRAMA
-http://mcdn.antennaplus.gr/live/media0/Drama/HLS/Drama.m3u8
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://15caafdab2.cbaul-cdnwnd.com/235a6e890dab480f00b1251e689026f3/200000000-8cae78da8d/uc_logo.jpg", LAMPSI TV
+https://pro.free.hr:3343/live/l1llive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/5/59/Atticatvlogo2017.png", ATTICA TV
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
