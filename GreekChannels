@@ -27,7 +27,7 @@ https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/divo-tv-1-logo-png-transparent.png", DIPOLO TV HD
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/divo-tv-1-logo-png-transparent.png", SPECIAL TV
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/1200w/livechannels/SPECIALTVLIVEY2016MUR/SPECIALTVLIVEY2016MUR-1536x614-DHE.jpg", SPECIAL TV
 https://vdo.alphaserver.gr:3128/stream/play.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
