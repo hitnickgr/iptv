@@ -33,6 +33,8 @@ https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Sierra_Logo_2014.png", SIERRA CHANNEL
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://deadline.com/wp-content/uploads/2024/06/MovieSphere.jpg", MOVIE SPHERE
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
 https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://15caafdab2.cbaul-cdnwnd.com/235a6e890dab480f00b1251e689026f3/200000000-8cae78da8d/uc_logo.jpg", LAMPSI TV
