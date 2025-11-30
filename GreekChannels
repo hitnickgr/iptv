@@ -60,6 +60,8 @@ http://185.166.252.230/Eurosport2/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT HD
 https://a1xs.vip/2000001
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT HD
+http://kstv.us:8080/live/Babeboi11/9785992589/47868.ts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT HD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT HD
 https://7pal.short.gy/SkSpMainE
