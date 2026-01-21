@@ -84,7 +84,7 @@ https://a1xs.vip/2000023
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 4
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.spider.net.mk/images/channels/77-arena-sport-1.png", ARENA SPORT 1
-http://185.188.188.237:5000/live/arenasport1/playlist.m3u8
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.spider.net.mk/images/channels/78-arena-sport-2.png", ARENA SPORT 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", DAZN TV
