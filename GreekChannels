@@ -25,7 +25,7 @@ https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 http://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/star-channel-gr.png", STAR INTERNATIONAL
 https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://img1.picmix.com/output/stamp/normal/1/1/4/2/2302411_aba33.gif", CINEMA
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://img1.picmix.com/output/stamp/normal/6/2/6/8/1388626_2d355.gif", CINEMA
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
