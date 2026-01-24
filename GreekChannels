@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", ΕΘΝΙΚΑΑ
+#EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", ΕΘΝΙΚΑ
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/180px-EPT1_logo_%282015%29.svg.png", ERT1 HD
 https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.m3u8
@@ -25,7 +25,8 @@ https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 http://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/star-channel-gr.png", STAR INTERNATIONAL
 https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", CINEMA
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://img1.picmix.com/output/stamp/normal/1/1/4/2/2302411_aba33.gif", CINEMA
+https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/1200w/livechannels/SPECIALTVLIVEY2016MUR/SPECIALTVLIVEY2016MUR-1536x614-DHE.jpg", SPECIAL TV
