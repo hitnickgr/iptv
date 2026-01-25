@@ -48,7 +48,7 @@ https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV GREEKS
-https://eu1.servers10.com:8081/8382/index.m3u8
+https://eu1.servers10.com:8081/8364/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", WEB TV
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/5/59/Atticatvlogo2017.png", ATTICA TV
@@ -138,7 +138,7 @@ https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ERT_World_Logo_2008.svg/2560px-ERT_World_Logo_2008.svg.png", ERT WORLD
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
-https://ertflix.akamaized.net/ertlive/ertnews/default/index.m3u8
+https://spark3.smart-tv-data.com/ertnews/ertnewsHD/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Euronews.png?raw=true", EURONEWS
 https://shorturl.at/BFDcw
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://i.imgur.com/Z3k7iA0.png", MEGA NEWS
