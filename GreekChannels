@@ -39,6 +39,8 @@ https://channel.streams.ovh:8081/dipolotv/index.m3u8
 https://live20.bozztv.com/giatv/giatv-diavatatvonline/diavatatvonline/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV GREEKS
 https://eu1.servers10.com:8081/8364/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://banner2.cleanpng.com/20180409/usw/avgzu915v.webp", MR BEAN
+https://shorturl.at/tW5nv
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Sierra_Logo_2014.png", SIERRA CHANNEL
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
