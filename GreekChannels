@@ -47,13 +47,15 @@ https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://netveurope.com/wp-content/uploads/2025/09/FAVICON-NET-EUROPE-03.png", NET EUROPE
+https://neon.streams.gr:8081/netveurope/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV GREEKS
 https://eu1.servers10.com:8081/8364/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", WEB TV
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/5/59/Atticatvlogo2017.png", ATTICA TV
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/5/59/Atticatvlogo2017.png", KONTRA TV
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://typologies.gr/wp-content/uploads/2020/03/KONTRA-logo-JPG.png", KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
