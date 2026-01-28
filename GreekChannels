@@ -43,12 +43,12 @@ https://pro.free.hr:3343/live/l1llive.m3u8
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
 https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", ELLAS WORLD
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://ellasmag.com/wp-content/uploads/2021/05/cropped-cropped-cropped-ELLAS-MAGAZINE.png", ELLAS WORLD
 https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://netveurope.com/wp-content/uploads/2025/09/FAVICON-NET-EUROPE-03.png", NET EUROPE
-https://neon.streams.gr:8081/netveurope/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV
+https://eu1.servers10.com:8081/8238/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV GREEKS
 https://eu1.servers10.com:8081/8364/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", WEB TV
@@ -152,6 +152,8 @@ https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", ΝΤΟΚΥΜΑΝΤΕΡ
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://m.media-amazon.com/images/I/313L4DmcyrL.png", DRONE TV 
 https://jmp2.uk/str-5407.m3u8
+#EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://netveurope.com/wp-content/uploads/2025/09/FAVICON-NET-EUROPE-03.png", NET EUROPE HD
+https://neon.streams.gr:8081/netveurope/index.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GEO_Television.png", ATHENS GEO
 https://pro.free.hr:3236/stream/play.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://cdn.mos.cms.futurecdn.net/rWoPqpFMNDjuhR54ALHJfg.jpg", WORLD FISHING NETWORK
