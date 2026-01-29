@@ -29,10 +29,14 @@ https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-cinema-3-gr.png", COSMOTE CINEMA 3 ᴴᴰ
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842763&extension=ts&play_token=lB0pQvoaJ1
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/1200w/livechannels/SPECIALTVLIVEY2016MUR/SPECIALTVLIVEY2016MUR-1536x614-DHE.jpg", Dtv
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scera.org/wp-content/uploads/2021/02/Cinema-classics-logo-square.png", CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://static.vecteezy.com/system/resources/previews/044/849/961/non_2x/galaxy-flat-modern-minimalist-logo-vector.jpg", GALAXY GR
+https://live20.bozztv.com/akamaissh101/ssh101/galaxygr/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/divo-tv-1-logo-png-transparent.png", DIPOLO TV HD
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/hsK68yd.png", DIAVATA
