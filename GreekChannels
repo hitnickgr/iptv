@@ -29,7 +29,7 @@ https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-cinema-3-gr.png", COSMOTE CINEMA 3 ᴴᴰ
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-cinema-3-gr.png", CINEMA 3 ᴴᴰ
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=460901&extension=ts&play_token=0Z2A7jyHRk
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scera.org/wp-content/uploads/2021/02/Cinema-classics-logo-square.png", CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
@@ -139,11 +139,11 @@ https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist
 https://ertflix-ertsports1.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/maddazos/Greek-TV-Logos/refs/heads/main/ERT%20Sports%202.png", ERT SPORTS 2 
 https://ertflix-ertsports2.siliconweb.com/mpegts/618618_3479295/master_mpegts.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", COSMOTE SPORT 1 ᴴᴰ 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", SPORT 1 ᴴᴰ 
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842765&extension=ts&play_token=NbwufJCoNB
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png", NOVA SPORTS PRIME ᴴᴰ 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png", SPORTS PRIME ᴴᴰ 
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842753&extension=ts&play_token=97O4su8c64
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png", NOVA SPORTS START ᴴᴰ 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png", SPORTS START ᴴᴰ 
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&extension=ts&play_token=TH51dnR97i
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://shorturl.at/hMHqU", ΕΙΔΗΣΕΙΣ
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
