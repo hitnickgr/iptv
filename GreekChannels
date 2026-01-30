@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", ΕΘΝΙΚΑ
+#EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", 📺 ΕΘΝΙΚΑ 📺
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/180px-EPT1_logo_%282015%29.svg.png", ERT1 ᴴᴰ
 https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.m3u8
