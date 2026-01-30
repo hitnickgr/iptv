@@ -30,7 +30,7 @@ https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-cinema-3-gr.png", COSMOTE CINEMA 3 ᴴᴰ
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842763&extension=ts&play_token=lB0pQvoaJ1
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=460901&extension=ts&play_token=0Z2A7jyHRk
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/1200w/livechannels/SPECIALTVLIVEY2016MUR/SPECIALTVLIVEY2016MUR-1536x614-DHE.jpg", Dtv
 https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scera.org/wp-content/uploads/2021/02/Cinema-classics-logo-square.png", CINEMA CLASSICS
@@ -57,14 +57,14 @@ https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 https://eu1.servers10.com:8081/8238/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", WEB TV
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arQe5qS.png", SYROS TV1
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4e/Pontos_TV_Logo.jpg/895px-Pontos_TV_Logo.jpg", PONTOS TV
 https://rtmp.win:3842/live/recme1live.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://typologies.gr/wp-content/uploads/2020/03/KONTRA-logo-JPG.png", KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arQe5qS.png", SYROS TV1
-https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://data.textstudio.com/output/sample/animated/9/6/5/6/sport-5-6569.gif", ΑΘΛΗΤΙΚΑ
 http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
@@ -137,10 +137,12 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://shorturl.at/VwS7J", NITRO CIRCUS
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%201.png?raw=true", ERT SPORTS 1 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/maddazos/Greek-TV-Logos/refs/heads/main/ERT%20Sports%201.png", ERT SPORTS 1 
 https://ertflix-ertsports1.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/maddazos/Greek-TV-Logos/blob/main/ERT%20Sports%202.png?raw=true", ERT SPORTS 2 
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/maddazos/Greek-TV-Logos/refs/heads/main/ERT%20Sports%202.png", ERT SPORTS 2 
 https://ertflix-ertsports2.siliconweb.com/mpegts/618618_3479295/master_mpegts.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", COSMOTE SPORT 1 ᴴᴰ 
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842765&extension=ts&play_token=NbwufJCoNB
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://shorturl.at/hMHqU", ΕΙΔΗΣΕΙΣ
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ERT_World_Logo_2008.svg/2560px-ERT_World_Logo_2008.svg.png", ERT WORLD
