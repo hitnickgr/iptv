@@ -141,6 +141,10 @@ https://ertflix-ertsports1.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3
 https://ertflix-ertsports2.siliconweb.com/mpegts/618618_3479295/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", COSMOTE SPORT 1 ᴴᴰ 
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842765&extension=ts&play_token=NbwufJCoNB
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png", NOVA SPORTS PRIME ᴴᴰ 
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842753&extension=ts&play_token=97O4su8c64
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png", NOVA SPORTS START ᴴᴰ 
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&extension=ts&play_token=TH51dnR97i
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://shorturl.at/hMHqU", ΕΙΔΗΣΕΙΣ
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ERT_World_Logo_2008.svg/2560px-ERT_World_Logo_2008.svg.png", ERT WORLD
