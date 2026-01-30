@@ -63,7 +63,7 @@ https://rtmp.win:3842/live/recme1live.m3u8
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://data.textstudio.com/output/sample/animated/9/6/5/6/sport-5-6569.gif", ΑΘΛΗΤΙΚΑ
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://data.textstudio.com/output/sample/animated/9/6/5/6/sport-5-6569.gif", ⚽🏀SPORTS🎱🎾
 http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
 http://178.23.88.55/Eurosport_1/index.m3u8
@@ -195,7 +195,7 @@ https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png", NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 group-title="ΧΧΧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", ❤️💋ΧΧΧ💋❤️
+#EXTINF:-1 group-title="ΧΧΧ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", ΧΧΧ
 http://46.149.191.217:9009/play/a020
 #EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Private_logo.svg/1280px-Private_logo.svg.png", PRIVATE TV
 http://46.149.191.217:9009/play/a020
