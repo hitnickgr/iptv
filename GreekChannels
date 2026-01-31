@@ -103,8 +103,6 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", SKY SPORTS F1
 https://a1xs.vip/2000005
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", ANT1+ F1
-https://lcdn.antennaplus.gr/831bc069aaeb45a4a5a03883e3890c8a/eu-central-1/6415884360001/profile_0/chunklist_wv_dvr.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png", iTV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://worldscreenings.com/wp-content/uploads/2024/07/World-Billiards-TV-NEWID-724.jpg", WORLD BILLIARDS TV
