@@ -63,7 +63,7 @@ https://rtmp.win:3842/live/recme1live.m3u8
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://data.textstudio.com/output/sample/animated/9/6/5/6/sport-5-6569.gif", ⚽🏀 SPORTS 🎱🎾
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://data.textstudio.com/output/sample/animated/9/6/5/6/sport-5-6569.gif", ⚽🎱 SPORTS 🏀🎾
 http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
 http://178.23.88.55/Eurosport_1/index.m3u8
@@ -72,7 +72,7 @@ http://178.23.88.55/Eurosport_2/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS ACTION ᴴᴰ
 http://178.33.239.54:8080/504/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT ᴴᴰ
-https://a1xs.vip/2000001
+https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT ᴴᴰ
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2184.ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT ᴴᴰ
