@@ -63,7 +63,7 @@ https://rtmp.win:3842/live/recme1live.m3u8
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://data.textstudio.com/output/sample/animated/9/6/5/6/sport-5-6569.gif", ⚽🎱 SPORTS 🏀🎾
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://data.textstudio.com/output/sample/animated/9/6/5/6/sport-5-6569.gif", ⚽🎾☘️ SPORTS 🎱🏀🏌🏼
 http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
 http://178.23.88.55/Eurosport_1/index.m3u8
@@ -102,7 +102,7 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png", DAZN TV
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", SKY SPORTS F1
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/2189.ts
+https://a1xs.vip/2000005
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", ANT1+ F1
 https://lcdn.antennaplus.gr/831bc069aaeb45a4a5a03883e3890c8a/eu-central-1/6415884360001/profile_0/chunklist_wv_dvr.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png", iTV4
