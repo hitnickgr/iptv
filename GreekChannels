@@ -83,10 +83,10 @@ http://cord-cutter.net:8080/bn80NG/909467/137720
 https://a1xs.vip/2000015
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png", NOVA SPORT 1 ᴴᴰ
 http://dvr2.kablova.tv/Nova_Sport/mpegts
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png", NOVA SPORT 2 ᴴᴰ
-http://185.188.188.237:5000/live/novasport2/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg", SKY SPORTS FOOTBALL
 https://a1xs.vip/2000003
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 1
+https://a1xs.vip/700031
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 1
 https://a1xs.vip/700031
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 2
