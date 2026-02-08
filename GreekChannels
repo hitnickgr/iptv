@@ -149,6 +149,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.m3u8
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842765&extension=ts&play_token=NbwufJCoNB
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", SPORT 1 ᴴᴰ 
 https://fontomakliszlas.b-cdn.net/channel1/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", SPORT 1 ᴴᴰ 
+https://d9.merichunidya.com:1686/hls/qomos1.m3u8?md5=7wsM5JFiWHPymeH5z0ynFw&expires=1770580721
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png", SPORTS PRIME ᴴᴰ 
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842753&extension=ts&play_token=97O4su8c64
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png", SPORTS START ᴴᴰ 
