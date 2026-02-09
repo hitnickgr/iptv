@@ -97,10 +97,10 @@ https://a1xs.vip/2000015
 http://dvr2.kablova.tv/Nova_Sport/mpegts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg", SKY SPORTS FOOTBALL
 https://a1xs.vip/2000003
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", SKY SPORTS F1
-https://a1xs.vip/2000005
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt04215f1234c090d0/673cb481bd749a19c4f12807/Sky_Sports_Premier_League_ICON_SQUARE_Full_Bleed_RGB.png", SKY SPORTS PREMIER LEAGUE FHD
 https://a1xs.vip/2000002
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", SKY SPORTS F1
+https://a1xs.vip/2000005
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 1
 https://a1xs.vip/700031
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 2
@@ -145,6 +145,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6970fdabbde579fb71262401.m3u8
 https://ertflix-ertsports1.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/maddazos/Greek-TV-Logos/refs/heads/main/ERT%20Sports%202.png", ERT SPORTS 2 
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.tvopen.gr/resources/images/a977b133-2c58-42fa-85e2-7b312a54c23f.jpg", OPEN SPORT 
+https://opentvlive2.siliconweb.com/tvopengames/live2_abr/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", SPORT 1 ᴴᴰ 
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842765&extension=ts&play_token=NbwufJCoNB
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", FOOT COS 1 ᴴᴰ 
@@ -167,6 +169,8 @@ https://spark3.smart-tv-data.com/ertnews/ertnewsHD/playlist.m3u8
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://i.ibb.co/zGQpM3Y/download-7.png", PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
+#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://www.zarpanews.gr/wp-content/uploads/2013/06/nea-tv-1024x484.png", NEA TV
+https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", ΝΤΟΚΥΜΑΝΤΕΡ
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://m.media-amazon.com/images/I/313L4DmcyrL.png", DRONE TV 
 https://jmp2.uk/str-5407.m3u8
