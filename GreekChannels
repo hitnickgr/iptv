@@ -29,7 +29,7 @@ https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-cinema-3-gr.png", CINEMA 3 ᴴᴰ
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-cinema-3-gr.png", COS CINEMA 3 ᴴᴰ
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842858&extension=ts&play_token=BiG7PwM5J6
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://scera.org/wp-content/uploads/2021/02/Cinema-classics-logo-square.png", CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
@@ -43,8 +43,6 @@ https://eu1.servers10.com:8081/8364/index.m3u8
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://babaktv.com/wp-content/uploads/2023/01/Groovy_TV.jpg", GROOVY TV
 https://web.onair-radio.eu/groovytv/groovytv/master.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://ellasmag.com/wp-content/uploads/2021/05/cropped-cropped-cropped-ELLAS-MAGAZINE.png", ELLAS WORLD
-https://ellastvmax.ath.cx/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/dLvRD4k.png", NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/DGZFlvp.png", EXTACY TV
