@@ -155,6 +155,8 @@ https://fontomakliszlas.b-cdn.net/channel1/index.m3u8
 https://fontomakliszlas.b-cdn.net/channel2/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB 3 NO 1
 https://toklintopolis.b-cdn.net/channel3/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Professional_Darts_Corporation_logo.svg/960px-Professional_Darts_Corporation_logo.svg.png", PDC DARTS
+http://205.237.105.197/hls/AAAAA.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://shorturl.at/hMHqU", 🌐 NEWS 🌐
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/vouli-tv-gr.png", ΒΟΥΛΗ TV
