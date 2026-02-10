@@ -150,7 +150,7 @@ http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842753&exte
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png", NO START ᴴᴰ
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&extension=ts&play_token=TH51dnR97i
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 1 
-https://fontomakliszlas.b-cdn.net/channel1/index.m3u8
+https://toklintopolis.b-cdn.net/channel1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 2 
 https://toklintopolis.b-cdn.net/channel2/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 3
