@@ -152,7 +152,7 @@ http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&exte
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB 1 COS 1 
 https://fontomakliszlas.b-cdn.net/channel1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB 2 PRIME 
-https://fontomakliszlas.b-cdn.net/channel2/index.m3u8
+https://toklintopolis.b-cdn.net/channel2/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB 3 NO 1
 https://toklintopolis.b-cdn.net/channel3/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Professional_Darts_Corporation_logo.svg/960px-Professional_Darts_Corporation_logo.svg.png", PDC DARTS
