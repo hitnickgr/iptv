@@ -133,11 +133,11 @@ http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842759&exte
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842753&extension=ts&play_token=97O4su8c64
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png", NO START ᴴᴰ
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&extension=ts&play_token=TH51dnR97i
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", 20:30 ΠΑΟΚ - Παναθηναϊκός 
-https://toklintopolis.b-cdn.net/channel1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", LIVE EVENT LINK A 
+https://toklintopolis.b-cdn.net/channel1/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", LIVE EVENT LINK B 
 https://toklintopolis.b-cdn.net/channel2/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", LIVE EVENT LINK B
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", LIVE EVENT LINK C
 https://toklintopolis.b-cdn.net/channel3/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", LIVE EVENT LINK D 
 https://toklintopolis.b-cdn.net/channel4/index.m3u8
