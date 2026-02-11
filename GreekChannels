@@ -161,7 +161,7 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/p
 https://pro.free.hr:3887/live/pronewslive.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", WEB TV
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 group-title="WEB" tvg-logo="https://netveurope.com/wp-content/uploads/2025/09/FAVICON-NET-EUROPE-03.png", NET EUROPE ᴴᴰ
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://netveurope.com/wp-content/uploads/2025/09/FAVICON-NET-EUROPE-03.png", NET EUROPE ᴴᴰ
 https://neon.streams.gr:8081/netveurope/index.m3u8
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/action-24-gr.png", ACTION24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
