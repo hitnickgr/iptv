@@ -141,28 +141,30 @@ https://ertflix-ertsports1.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.tvopen.gr/resources/images/a977b133-2c58-42fa-85e2-7b312a54c23f.jpg", OPEN SPORT 
 https://opentvlive2.siliconweb.com/tvopengames/live2_abr/playlist.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", COS SPORT 1 ᴴᴰ 
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842765&extension=ts&play_token=NbwufJCoNB
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/nova-sports-1-gr.png", NO SPORT 1 ᴴᴰ 
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842759&extension=ts&play_token=YFBsQzWTsu
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png", NO PRIME ᴴᴰ 
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842753&extension=ts&play_token=97O4su8c64
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png", NO START ᴴᴰ
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&extension=ts&play_token=TH51dnR97i
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 1 
-https://toklintopolis.b-cdn.net/channel1/index.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 2 
-https://toklintopolis.b-cdn.net/channel2/index.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 3
-https://toklintopolis.b-cdn.net/channel3/index.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 4 
-https://toklintopolis.b-cdn.net/channel4/index.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 5 
-https://toklintopolis.b-cdn.net/channel5/index.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK 6
-https://toklintopolis.b-cdn.net/channel6/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Professional_Darts_Corporation_logo.svg/960px-Professional_Darts_Corporation_logo.svg.png", PDC DARTS
 http://205.237.105.197/hls/AAAAA.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", COS SPORT 1 ᴴᴰ 
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842765&extension=ts&play_token=NbwufJCoNB
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/nova-sports-1-gr.png", NO SPORT 1 ᴴᴰ 
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842759&extension=ts&play_token=YFBsQzWTsu
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-prime-gr.png", NO PRIME ᴴᴰ 
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842753&extension=ts&play_token=97O4su8c64
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/nova-sports-start-gr.png", NO START ᴴᴰ
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&extension=ts&play_token=TH51dnR97i
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK A 
+https://toklintopolis.b-cdn.net/channel1/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK B 
+https://toklintopolis.b-cdn.net/channel2/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK C
+https://toklintopolis.b-cdn.net/channel3/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK D 
+https://toklintopolis.b-cdn.net/channel4/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK E 
+https://toklintopolis.b-cdn.net/channel5/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK F
+https://toklintopolis.b-cdn.net/channel6/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", FOOTHUB LINK G
+https://toklintopolis.b-cdn.net/channel7/index.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://shorturl.at/hMHqU", 🌐 NEWS 🌐
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/vouli-tv-gr.png", ΒΟΥΛΗ TV
