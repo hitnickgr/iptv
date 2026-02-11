@@ -55,16 +55,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f170d61b898490041b49369.m3u8
 https://shorturl.at/tW5nv
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", WEB TV
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/action-24-gr.png", ACTION24
-https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4e/Pontos_TV_Logo.jpg/895px-Pontos_TV_Logo.jpg", PONTOS TV
-https://rtmp.win:3842/live/recme1live.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/kontra-channel-gr.png", KONTRA TV
-https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arQe5qS.png", SYROS TV1
-https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
-#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
-http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://media.tenor.com/KwH4y0yi97wAAAAj/soccer-soccer-ball.gif", ⚽🎾 SPORTS 🎱🏀
 http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
@@ -177,8 +167,16 @@ https://spark3.smart-tv-data.com/ertnews/ertnewsHD/playlist.m3u8
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://i.ibb.co/zGQpM3Y/download-7.png", PRO NEWS
 https://pro.free.hr:3887/live/pronewslive.m3u8
-#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://www.zarpanews.gr/wp-content/uploads/2013/06/nea-tv-1024x484.png", NEA TV
-https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/action-24-gr.png", ACTION24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/4/4e/Pontos_TV_Logo.jpg/895px-Pontos_TV_Logo.jpg", PONTOS TV
+https://rtmp.win:3842/live/recme1live.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/kontra-channel-gr.png", KONTRA TV
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://i.imgur.com/arQe5qS.png", SYROS TV1
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/best-tv-gr.png", BEST TV
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Animated-Flag-Greece.gif", ΝΤΟΚΥΜΑΝΤΕΡ
 #EXTINF:-1 group-title="ΝΤΟΚΥΜΑΝΤΕΡ" tvg-logo="https://m.media-amazon.com/images/I/313L4DmcyrL.png", DRONE TV 
 https://jmp2.uk/str-5407.m3u8
