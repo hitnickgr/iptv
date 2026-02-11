@@ -69,21 +69,21 @@ https://7pal.short.gy/SkSpMainE
 http://cord-cutter.net:8080/bn80NG/909467/137720
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg", SKY SPORTS MAIN EVENT ᴴᴰ
 https://a1xs.vip/2000015
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png", NOVA SPORT 1 ᴴᴰ
-http://dvr2.kablova.tv/Nova_Sport/mpegts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 1
+https://a1xs.vip/700031
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 2
+https://a1xs.vip/700032
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg", SKY SPORTS FOOTBALL
 https://a1xs.vip/2000003
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt04215f1234c090d0/673cb481bd749a19c4f12807/Sky_Sports_Premier_League_ICON_SQUARE_Full_Bleed_RGB.png", SKY SPORTS PREMIER LEAGUE FHD
 https://a1xs.vip/700008
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg", SKY SPORTS F1
 https://a1xs.vip/2000005
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 1
-https://a1xs.vip/700031
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://w7.pngwing.com/pngs/919/940/png-transparent-sky-sports-f1-sports-commentator-boxing-cricket-text-sport-logo-thumbnail.png", SKY SPORTS 2
-https://a1xs.vip/700032
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1200px-ITV4_logo_%282022%29.svg.png", iTV4
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
-#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.spider.net.mk/images/channels/77-arena-sport-1.png", ARENA SPORT 1ᴴᴰ
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_Sport_1_2024.png", NOVA SPORT 1 ᴴᴰ
+http://dvr2.kablova.tv/Nova_Sport/mpegts
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.spider.net.mk/images/channels/77-arena-sport-1.png", ARENA SPORT 1 ᴴᴰ
 http://178.23.88.55/Arena_sport/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.spider.net.mk/images/channels/78-arena-sport-2.png", ARENA SPORT 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
