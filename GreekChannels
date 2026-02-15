@@ -25,6 +25,8 @@ https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 http://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/star-channel-gr.png", STAR INTERNATIONAL
 https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
+#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/vouli-tv-gr.png", VOULI TV
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://img1.picmix.com/output/stamp/thumb/4/0/8/8/2298804_31510.gif", 📽 CINEMA 🎬
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/village-cinema-gr.png", VILAGE WORLD
@@ -149,8 +151,6 @@ http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842753&exte
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&extension=ts&play_token=TH51dnR97i
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://shorturl.at/hMHqU", 🌐 NEWS 🌐
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
-#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/vouli-tv-gr.png", ΒΟΥΛΗ TV
-https://ertflix.ascdn.broadpeak.io/ertlive/vouli/default/index.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ERT_World_Logo_2008.svg/2560px-ERT_World_Logo_2008.svg.png", ERT WORLD
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
