@@ -4,9 +4,9 @@ https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/EPT1_logo_%282015%29.svg/180px-EPT1_logo_%282015%29.svg.png", ERT1 ᴴᴰ
 https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/%CE%95%CE%A1%CE%A42.png", ERT2 ᴴᴰ
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/EPT3_logo_%282015%29.svg/180px-EPT3_logo_%282015%29.svg.png", ERT3 ᴴᴰ
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/media_mpegts_0.m3u8
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://i.imgur.com/UsyFADE.png", MEGA ᴴᴰ
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842951&extension=ts&play_token=C9GFn3KME4
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", ANT1 ᴴᴰ
@@ -116,7 +116,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://images.bowl.com/bowl/media/legacy/uploadedimages/News/Other/BowlTVLarge.jpg", BOWLING TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6970fdabbde579fb71262401.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/maddazos/Greek-TV-Logos/refs/heads/main/ERT%20Sports%201.png", ERT SPORTS 1 
-https://ertflix-ertsports1.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3u8
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://raw.githubusercontent.com/maddazos/Greek-TV-Logos/refs/heads/main/ERT%20Sports%202.png", ERT SPORTS 2 
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://www.tvopen.gr/resources/images/a977b133-2c58-42fa-85e2-7b312a54c23f.jpg", OPEN SPORT 
