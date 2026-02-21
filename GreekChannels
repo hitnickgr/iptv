@@ -56,7 +56,9 @@ http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
 http://kstv.us:8080/live/N427DpynGE/7049166651/48449.ts
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport%20Uk.png?raw=true", EUROSPORT 1 
-https://beautifulpeople.lovecdn.ru/EURO1GR/index.m3u8?token=RVVSTzFHUnxub19jaGVja19pcHwxNzcxNjUzMzM1.4d688b62d8f13012aa8a2355be37bb45a36a94bd3bbc09235a2611037a2ea10f
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport2%20Uk.png?raw=true", EUROSPORT 2 
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/E/Eurosport2%20Uk.png?raw=true", EUROSPORT 2 
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://github.com/PseudoTV/PseudoTV_Logos/blob/master/T/TNT_TV_logo.png?raw=true", TNT SPORTS 1
