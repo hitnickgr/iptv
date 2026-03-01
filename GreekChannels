@@ -149,6 +149,8 @@ https://plklizhenlis532.b-cdn.net/channel5/index.m3u8
 https://plklizhenlis532.b-cdn.net/channel6/index.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets.stickpng.com/images/594191c45eb5d45f10e35b29.png", LIVE EVENT LINK G
 https://plklizhenlis532.b-cdn.net/channel7/index.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", COS SPORT 5 ᴴᴰ
+http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842761&extension=ts&play_token=xdOjg8ssTo
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/greece/cosmote-sport-1-gr.png", COS SPORT 1 ᴴᴰ 
 http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842765&extension=ts&play_token=NbwufJCoNB
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/nova-sports-1-gr.png", NO SPORT 1 ᴴᴰ 
