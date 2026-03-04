@@ -165,6 +165,8 @@ http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:EE:CD:F0&stream=842752&exte
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+#EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ERTNEWS_LOGO.png/180px-ERTNEWS_LOGO.png", ERT NEWS 2
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews2/default/index.mpd
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://i.imgur.com/Z3k7iA0.png", MEGA NEWS
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
 #EXTINF:-1 group-title="ΕΙΔΗΣΕΙΣ" tvg-logo="https://i.ibb.co/zGQpM3Y/download-7.png", PRO NEWS
