@@ -234,7 +234,9 @@ http://web.onair-radio.eu:1935/video/video/playlist.m3u8
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="https://russmus.net/wp-content/uploads/2024/02/russian-porn-8.gif", ❤️💋 XXX 💋❤️
 http://46.149.191.217:9009/play/a020
-#EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png", Playboy TV (Europe)
+#EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Private_logo.svg/3840px-Private_logo.svg.png", Private SD
+http://46.149.191.217:9009/play/a020
+#EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/3840px-Play_Boy_TV_logo.svg.png", Playboy TV (Europe)
 http://bgdc.live:25461/live/folalawal@/4044225438/204284.ts
 #EXTINF:-1 group-title="XXX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png", HUSTLERᴴᴰ
 http://78.108.251.7/HustlerHD/index.m3u8
