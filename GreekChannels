@@ -19,8 +19,8 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/open-tv-gr.png", OPEN BEYOND ᴴᴰ
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
-#EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/ERT_World_Logo_2008.svg/2560px-ERT_World_Logo_2008.svg.png", ERT WORLD
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd
+#EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png", ERT COSMOS
+http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/greece/vouli-tv-gr.png", VOULI TV
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:-1 group-title="ΕΘΝΙΚΑ" tvg-logo="https://i.ibb.co/QrSzNn6/31087.png", OMEGA
